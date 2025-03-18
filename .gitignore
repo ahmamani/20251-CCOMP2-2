@@ -1,2 +1,4 @@
 *.exe
 .doctexto.txt
+obj/
+*.cbp
