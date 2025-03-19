@@ -16,8 +16,10 @@ int main()
         Para declarar una variable en c++
             TIPO NOMBRE_VARIABLE;
     */
-    int val; // declarando una variable de tipo int(entero) que se llama val
-    val = 10;
-    cout << "El valor de la variable es: "  << val << endl;
+    int num1; // declarando una variable de tipo int(entero) que se llama num1
+    int num2; // declarando una variable de tipo int(entero) que se llama num2
+    num1 = 10;
+    num2 = 20;
+    cout << "El valor de la suma es: "  << (num1 + num2) << endl;
     return 0;
 }
