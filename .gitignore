@@ -2,3 +2,4 @@
 .doctexto.txt
 obj/
 *.cbp
+*.depend
