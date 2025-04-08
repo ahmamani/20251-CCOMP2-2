@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="3_While/3_While.cbp" />
+		<Project filename="5_For/5_For.cbp" />
+		<Project filename="3_For_ej_2_contar_letra/3_For_ej_2_contar_letra.cbp" />
+		<Project filename="3_For_ej_3_palindrome/3_For_ej_3_palindrome.cbp" />
+		<Project filename="5_NumeroPrimo/5_NumeroPrimo.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
