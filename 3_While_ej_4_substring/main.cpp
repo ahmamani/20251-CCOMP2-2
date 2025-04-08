@@ -40,6 +40,8 @@ int main()
                 counter++;
             }
             idxpal = 0;
+            flag = true;
+
         }
         idxcad = idxcad + 1;
     }
