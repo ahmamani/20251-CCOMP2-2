@@ -32,7 +32,7 @@ int main()
 
     /**
     * El nombre de un arreglo es un puntero
-    * al primer elemento del arreglo.
+    * constante al primer elemento del arreglo.
     */
     cout << *(arreglo+0) << endl;
     cout << *(arreglo+1) << endl;
