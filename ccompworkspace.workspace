@@ -6,5 +6,11 @@
 		<Project filename="3_For_ej_2_contar_letra/3_For_ej_2_contar_letra.cbp" />
 		<Project filename="3_For_ej_3_palindrome/3_For_ej_3_palindrome.cbp" />
 		<Project filename="5_NumeroPrimo/5_NumeroPrimo.cbp" />
+		<Project filename="6_Funciones/6_Funciones.cbp" />
+		<Project filename="6_Funciones_ej2_primo/6_Funciones_ej2_primo.cbp" />
+		<Project filename="5_Funciones_ej_3_strings/5_Funciones_ej_3_strings.cbp" />
+		<Project filename="6_Funciones_ej4_recursividad/6_Funciones_ej4_recursividad.cbp" />
+		<Project filename="6_arreglos/6_arreglos.cbp" />
+		<Project filename="6_arreglos_ej1_sumaelems/6_arreglos_ej1_sumaelems.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
