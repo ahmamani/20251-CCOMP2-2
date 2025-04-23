@@ -17,6 +17,7 @@ using namespace std;
 * Operador de Indirección (*): Es un operador unario que sirve para
 *                           obtener el valor de una dirección de memoria.
 *
+*
 **/
 int main()
 {
@@ -34,6 +35,9 @@ int main()
     int m = 20;
     ptr = &m;
     cout << *ptr << endl;
+    ///////-----------------------------------
+    ///////-----------------------------------
+
 
     return 0;
 }
