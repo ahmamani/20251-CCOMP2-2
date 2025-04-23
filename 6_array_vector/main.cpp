@@ -26,8 +26,7 @@ void bubblesort(array<int, 5> arr) {
     cout << "Dentro de Bubblesort: ";
     printArray(arr);
 }
-int main()
-{
+int main(){
     array<int, 5> arr = {5,3,2,8,7};
     bubblesort(arr);
     printArray(arr);
