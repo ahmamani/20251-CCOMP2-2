@@ -12,6 +12,15 @@ void printArray(int arr[], int size) {
         cout << arr[i] << " ";
     cout << "]" << endl;
 }
+void reverseArray(int arr[], int ini, int fin) {
+    while(ini < fin) {
+        int tmp = arr[ini];
+        arr[ini] = arr[fin];
+        arr[fin] = tmp;
+        ini++;
+        fin--;
+    }
+}
 
 int main()
 {
@@ -23,13 +32,7 @@ int main()
     //// invertir
     int ini = 0;
     int fin = size-1;
-    while(ini < fin) {
-        int tmp = arr[ini];
-        arr[ini] = arr[fin];
-        arr[fin] = tmp;
-        ini++;
-        fin--;
-    }
+    reverseArray(arr, ini, fin);
 
     printArray(arr, size);
 
