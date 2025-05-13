@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_workspace_file>
 	<Workspace title="Workspace">
-		<Project filename="3_While/3_While.cbp" />
-		<Project filename="5_For/5_For.cbp" />
-		<Project filename="3_For_ej_2_contar_letra/3_For_ej_2_contar_letra.cbp" />
-		<Project filename="3_For_ej_3_palindrome/3_For_ej_3_palindrome.cbp" />
-		<Project filename="5_NumeroPrimo/5_NumeroPrimo.cbp" />
-		<Project filename="6_Funciones/6_Funciones.cbp" />
-		<Project filename="6_Funciones_ej2_primo/6_Funciones_ej2_primo.cbp" />
-		<Project filename="5_Funciones_ej_3_strings/5_Funciones_ej_3_strings.cbp" />
-		<Project filename="6_Funciones_ej4_recursividad/6_Funciones_ej4_recursividad.cbp" />
 		<Project filename="6_arreglos/6_arreglos.cbp" />
 		<Project filename="6_arreglos_ej1_sumaelems/6_arreglos_ej1_sumaelems.cbp" />
 		<Project filename="6_arreglos_ej2_invertirelems/6_arreglos_ej2_invertirelems.cbp" />
 		<Project filename="6_arreglos_ej3_ordenamiento/6_arreglos_ej3_ordenamiento.cbp" />
+		<Project filename="6_array_vector/6_array_vector.cbp" />
 		<Project filename="7_punteros/7_punteros.cbp" />
 		<Project filename="7_punteros_ej1_tipos/7_punteros_ej1_tipos.cbp" />
 		<Project filename="7_punteros_ej2_arreglos/7_punteros_ej2_arreglos.cbp" />
+		<Project filename="7_punteros_ej3_arreglos_invertir/7_punteros_ej3_arreglos_invertir.cbp" />
+		<Project filename="7_punteros_ej4_ordenamiento/7_punteros_ej4_ordenamiento.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
