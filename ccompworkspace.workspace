@@ -11,5 +11,9 @@
 		<Project filename="7_punteros_ej2_arreglos/7_punteros_ej2_arreglos.cbp" />
 		<Project filename="7_punteros_ej3_arreglos_invertir/7_punteros_ej3_arreglos_invertir.cbp" />
 		<Project filename="7_punteros_ej4_ordenamiento/7_punteros_ej4_ordenamiento.cbp" />
+		<Project filename="8_practica_lab_2/8_practica_lab_2.cbp" />
+		<Project filename="9_poo_clases/9_poo_clases.cbp" />
+		<Project filename="9_poo_structs/9_poo_structs.cbp" />
+		<Project filename="9_newdelete/9_newdelete.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
