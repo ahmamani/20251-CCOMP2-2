@@ -1,6 +1,7 @@
 *.exe
 .doctexto.txt
 obj/
+bin/
 *.cbp
 *.depend
 *.layout
